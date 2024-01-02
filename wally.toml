@@ -1,0 +1,15 @@
+[package]
+name = "cyclesuite/cycle"
+description = "Plugin for added functionality when designing interface."
+version = "0.1.0"
+license = "MIT"
+authors = ["Nicklaus-s"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+
+[dependencies]
+Fusion = "elttob/fusion@0.2.0"
+Reflex = "littensy/reflex@4.2.0"
+Trove = "sleitnick/trove@1.1.0"
+Promise = "evaera/promise@4.0.0"
+Sift = "csqrl/sift@0.0.8"
